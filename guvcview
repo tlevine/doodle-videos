@@ -1,0 +1,4 @@
+#!/bin/sh
+
+# This wrapper starts guvcview with our settings
+guvcview -l doodle.gpfl
